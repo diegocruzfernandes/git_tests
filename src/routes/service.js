@@ -9,4 +9,8 @@ export default Service {
   _Get(){
     return 'Get';
   }
+
+  _Post(){
+    return 'POST';
+  }
 }
