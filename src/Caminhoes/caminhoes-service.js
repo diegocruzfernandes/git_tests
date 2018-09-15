@@ -2,5 +2,6 @@
 
 const caminhoes {
   volvo: 'volvo',
-  scania: 'scania'
+  scania: 'scania',
+  volks: 'volks'
 }
