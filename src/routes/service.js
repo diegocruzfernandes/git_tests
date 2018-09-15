@@ -1,3 +1,8 @@
 'use strict'
 
-console.log('Service');
+export default Service {
+  
+  _connectToBD(){
+    return 'Conectado'
+  }
+}
