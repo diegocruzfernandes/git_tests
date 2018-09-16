@@ -3,4 +3,8 @@ const Sexo = {
   F = 'Feminino'
 }
 
-export default Sexo {}
+export default Sexo {
+  _definir(){
+    return 'definir';
+  }
+}
